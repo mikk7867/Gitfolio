@@ -4,3 +4,7 @@ I dag har jeg gennemlæst opgaven, hvorefter jeg har installeret Git og VSCode. 
 
 5/1-2022
 
+I dag har jeg forbundet VSCode til Github, og jeg har udviklet min kode gennem gentagne forsøg. Jeg har også aftalt med instruktøren at jeg bruger CSS i stedet for Bootstrap 5 som opgaven siger. 
+
+6/1-2022
+
