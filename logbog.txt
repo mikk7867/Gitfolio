@@ -1,10 +1,12 @@
 4/1-2022
 
-I dag har jeg gennemlæst opgaven, hvorefter jeg har installeret Git og VSCode. Jeg har desuden kopieret den testkode, som opgaven bad mig om at kopiere. 
+I dag har jeg gennemlæst opgaven, hvorefter jeg har installeret Git og VSCode. 
+Jeg har desuden kopieret den testkode, som opgaven bad mig om at kopiere. 
 
 5/1-2022
 
 I dag har jeg forbundet VSCode til Github, og jeg har udviklet min kode gennem gentagne forsøg. Jeg har også aftalt med instruktøren at jeg bruger CSS i stedet for Bootstrap 5 som opgaven siger. 
+Jeg har lavet flere filer, 3 html-filer til iframes, en css-fil til extern css og en txt-fil til at føre denne logbog. 
 
 6/1-2022
 
