@@ -1,25 +1,24 @@
-/*css file, lav forskællige typer/classes i morgen*/
+/*css file*/
 table {
     border-spacing: 20px;
     margin-left: auto; 
     margin-right: auto;
 }
-th, td {
+th {
     border: 1px solid lightgray;
     border-radius: 25px;
     background-color:whitesmoke;
 }
-
-    h1, p {
+h1, p {
     text-align: center;
 }
 .blank {
     border: 0px white;
     background-color: white;
-    width: 50px;
+    width: 75px;
 } 
 .frame {
-    height:700px; 
-    width: 350px; 
+    height: 700px; 
+    width: 425px; 
     border: none;
 }
