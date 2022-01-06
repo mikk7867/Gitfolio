@@ -10,4 +10,6 @@ Jeg har lavet flere filer, 3 html-filer til iframes, en css-fil til extern css o
 
 6/1-2022
 
-I dag har jeg 
+I dag har jeg kopieret tekst fra mit CV over i koden. Jeg har desuden lavet videre på både html-filerne og css-filen, for at nå videre med både indhold og layout. 
+
+7/1-2022
