@@ -5,20 +5,22 @@ table {
     margin-right: auto;
 }
 th {
+    padding: 10px;
     border: 1px solid lightgray;
     border-radius: 25px;
     background-color:whitesmoke;
 }
-h1, p {
+h1 {
     text-align: center;
+    text-shadow: 1px 1px 2px gray;
 }
 .blank {
-    border: 0px white;
+    border: none;
     background-color: white;
     width: 75px;
 } 
 .frame {
-    height: 700px; 
-    width: 425px; 
+    height: 1000px; 
+    width: 400px; 
     border: none;
 }
