@@ -1,6 +1,6 @@
 /*css file*/
 body.a {
-    background-color: #cc0000;
+    background-color: darkblue;
 }
 table {
     border-spacing: 100px 20px;
@@ -29,19 +29,9 @@ h3.a {
     width: 75px;
 } 
 .frame {
-    height: 910px; 
+    height: 900px; 
     width: 385px; 
     border: none;
-}
-aside {
-    height: 100px;
-    background-color: tomato;
-}
-aside.r {
-    float: right;
-}
-aside.l {
-    float: left;
 }
 div {
     background-color: tomato;
