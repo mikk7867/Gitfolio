@@ -3,7 +3,7 @@ body.a {
     background-color: darkblue;
 }
 table {
-    border-spacing: 100px 20px;
+    border-spacing: 50px 20px;
     margin-left: auto; 
     margin-right: auto;
     background-color: white;
@@ -15,7 +15,6 @@ th {
     border: 1px solid lightgray;
     border-radius: 25px;
     background-color:whitesmoke;
-    width: 400px;
 }
 h1 {
     text-align: center;
@@ -27,7 +26,7 @@ h3.a {
 .blank {
     border: none;
     background-color: white;
-    width: 75px;
+    width: 0px;
 } 
 .frame {
     height: 900px; 
@@ -36,4 +35,7 @@ h3.a {
 }
 div {
     background-color: tomato;
+}
+.pic {
+    width: 200px;
 }
